@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayk-gupta" alt="jayk-gupta" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jayk_gupta" target="blank"><img src="https://img.shields.io/twitter/follow/jayk_gupta?logo=twitter&style=for-the-badge" alt="jayk_gupta" /></a> </p>
-
-- 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-kumar-gupta-ba0434201) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18538895) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jayk_gupta) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,6 +11,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=jayk-gupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jayk-gupta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayk-gupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-kumar-gupta-ba0434201) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18538895) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jayk_gupta) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayk-gupta&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
@@ -29,9 +27,9 @@
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-
+<!-- 
 ---
-[![](https://visitcount.itsvg.in/api?id=jayk-gupta&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jayk-gupta&icon=0&color=9)](https://visitcount.itsvg.in) -->
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jaykgupta) 
