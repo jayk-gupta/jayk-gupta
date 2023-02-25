@@ -1,4 +1,4 @@
-Hi , I am Jay Kumar Gupta Computer Science undergraduate, an aspiring web developer passionate about Frontend Web Development.
+Hi 👋 , I am Jay Kumar Gupta Computer Science 🖥 undergraduate, an aspiring web developer 🕸 passionate about Frontend Web Development and I 🧡 it  .
 
 [Portfolio site](https://jaykgupta.netlify.app/)
 
