@@ -19,8 +19,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayk-gupta&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=jayk_gupta)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=jayk_gupta)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
