@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Kumar Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p  align="center">Computer Science undergraduate</p>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 
 
