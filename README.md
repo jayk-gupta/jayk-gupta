@@ -43,8 +43,6 @@
 
 ![](https://api.githubtrends.io/user/svg/jayk-gupta/repos?time_range=one_year&group=other&theme=dark)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=jayk_gupta)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
