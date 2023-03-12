@@ -41,6 +41,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayk-gupta&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
+![](https://api.githubtrends.io/user/svg/jayk-gupta/repos?time_range=one_year&group=other&theme=dark)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=jayk_gupta)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
