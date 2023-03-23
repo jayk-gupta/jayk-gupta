@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Jay Kumar Gupta</h1>
 <p  align="center">Computer Science undergraduate</p>
-<h3 align="center">A aspiring Frontend Developer from India</h3>
+<h3 align="center">Frontend Developer from India</h3>
 
 
 - 🌱 I’m currently learning **JavaScript**
