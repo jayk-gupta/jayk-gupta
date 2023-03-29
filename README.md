@@ -39,11 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayk-gupta&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://api.githubtrends.io/user/svg/jayk-gupta/repos?time_range=one_year&group=other&theme=dark)
-
-
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+<!-- ![](https://api.githubtrends.io/user/svg/jayk-gupta/repos?time_range=one_year&group=other&theme=dark) -->
 
 
   ## 💰 You can help me by Donating
