@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jaykgupta.netlify.app/](https://jaykgupta.netlify.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@jaykgupta](https://hashnode.com/@jaykgupta)
+- 📝 Find my articles on [https://hashnode.com/@jaykgupta](https://hashnode.com/@jaykgupta)
 
 - 💬 Ask me about **HTML,CSS, Javascript,React**
 
