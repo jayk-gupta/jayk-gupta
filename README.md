@@ -5,13 +5,11 @@
 <h3 align="center">Frontend Developer from India</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://jaykgupta.netlify.app/](https://jaykgupta.netlify.app/)
 
 - 📝 Find my articles on [https://hashnode.com/@jaykgupta](https://hashnode.com/@jaykgupta)
-
-- 💬 Ask me about **HTML,CSS, Javascript,React**
 
 - 📫 How to reach me **jayesh.gupta3224@gmail.com**
 
