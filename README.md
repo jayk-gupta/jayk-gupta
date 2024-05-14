@@ -8,8 +8,6 @@
 - 🖊️ I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://jaykgupta.netlify.app/](https://jaykgupta.netlify.app/)
-  
-- 📃 [My Resume](https://drive.google.com/file/d/1UWz2loms2UkoTCYyLA7ytFXdoPVvbxjC/view)
 
 - 📝 Find my articles on [https://hashnode.com/@jaykgupta](https://hashnode.com/@jaykgupta)
 
