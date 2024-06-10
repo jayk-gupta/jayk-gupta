@@ -5,7 +5,7 @@
 <h3 align="center">Frontend Developer from India</h3>
 
 
-- 🖊️ I’m currently learning **MERN Stack**
+- 🖊️ I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://jaykgupta.netlify.app/](https://jaykgupta.netlify.app/)
 
