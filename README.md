@@ -1,7 +1,7 @@
 <!-- ![I am in with Web Development (3)](https://user-images.githubusercontent.com/100681165/224504317-1cb9b371-8362-41f8-9316-715d570fbf17.png) -->
 
 <h1 align="center">Hi 👋, I'm Jay Kumar Gupta</h1>
-<p  align="center">Computer Science undergraduate</p>
+<p  align="center">Computer Science graduate</p>
 <h3 align="center">Full Stack Developer from India</h3>
 
 
